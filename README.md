@@ -15,4 +15,5 @@ I focus on bridging the gap between physical infrastructure (IoT) and blockchain
 
 ---
 "Understanding the market is good; building the infrastructure for it is better."
+
 # EvanHan
